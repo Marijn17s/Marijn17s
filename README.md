@@ -45,15 +45,15 @@
 
 <p align="center">Like my work? Buy me a <a href="https://www.paypal.me/marijn17s">coffee</a></p>
 
-> ### Interested in: Desktop Development, high performance applications
+> ### Interested in: Desktop Development, high performance applications, back-end development
 
-> ### Knowledgeable in: C#, VB (WPF, Asp.Net, WinForms), Laravel, MySQL
+> ### Proficient in: C#, VB (WPF, Asp.Net, WinForms), MySQL
 
-> ### Experience in: HTML, CSS, JavaScript, TypeScript, PHP, Flutter, Go
+> ### Experience in: HTML, CSS, JavaScript, TypeScript, PHP, Laravel, Flutter, Go, PostgreSQL
 
 > ### Currently learning: Rust
 
-> ### Tools I use: JetBrains (Rider, RustRover, PhpStorm), DBeaver, Insomnia, VSCodium
+> ### Tools I use: JetBrains suite (Rider, RustRover, CLion), DBeaver, Insomnia, VSCodium
 
 > ![Marijn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark)
 
