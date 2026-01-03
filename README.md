@@ -55,10 +55,11 @@
 
 > ### Tools I use: JetBrains suite (Rider, RustRover, CLion), DBeaver, Insomnia, VSCodium
 
+<!--
 > ![Marijn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark)
 
 > ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marijn17S&layout=compact&theme=dark&exclude_repo=bld_announcer)
-
+-->
 <!-- ### Demo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marijn17S)](https://github.com/Marijn17S/marijn-stats)
