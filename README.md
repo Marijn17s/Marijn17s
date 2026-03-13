@@ -43,13 +43,13 @@
   </p>-->
 </p>
 
-<p align="center">Like my work? Buy me a <a href="https://www.paypal.me/marijn17s">coffee</a></p>
+<p align="center">Like my work? Buy me a <a href="https://bunq.me/marijn17s">coffee</a></p>
 
 > ### Interested in: Desktop Development, high performance applications, back-end development
 
 > ### Proficient in: C#, VB (WPF, Asp.Net, WinForms), MySQL
 
-> ### Experience in: HTML, CSS, JavaScript, TypeScript, PHP, Laravel, Flutter, Go, PostgreSQL
+> ### Experience in: HTML, CSS, JavaScript, TypeScript, PHP, Laravel, Flutter, Go, Kotlin, PostgreSQL
 
 > ### Currently learning: Rust
 
